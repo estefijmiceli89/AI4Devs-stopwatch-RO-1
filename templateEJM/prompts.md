@@ -125,9 +125,8 @@ Aquí está el razonamiento detrás de su estructura:
    - Tests unitarios básicos
    - Documentación completa
 
-Esta estrategia de meta-prompting es efectiva porque aprovecha la capacidad del modelo para entender lo que hace un buen prompt y luego ejecutarlo, obteniendo resultados de mayor calidad que los que típicamente se lograrían con prompts directos.
+Esta estrategia de meta-prompting es efectiva porque aprovecha la capacidad del modelo para entender lo que hace un buen prompt y luego ejecutarlo, obteniendo resultados de mayor calidad que los que típicamente se lograrían con prompts directos. ¿Quieres que haga algún ajuste o mejora al meta-prompt antes de utilizarlo?
 
-¿Quieres que haga algún ajuste o mejora al meta-prompt antes de utilizarlo?
 
 PROMPT DEL USUARIO (Meta-Prompt)
 
