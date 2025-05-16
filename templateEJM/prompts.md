@@ -31,6 +31,7 @@ Teniendo todo lo que te comente en cuenta, necesito que crees el prompt ideal pa
 
 
 RESPUESTA DE CLAUDE
+
 Entiendo que estás trabajando en tu segundo entregable para tu maestría AI4Devs y quieres utilizar la técnica de meta-prompting para crear un stopwatch (cronómetro) y countdown (cuenta regresiva) basado en los mockups que compartiste.
 
 Para desarrollar el meta-prompt perfecto, permíteme hacerte algunas preguntas clave para refinar los requisitos:
@@ -62,6 +63,7 @@ Para desarrollar el meta-prompt perfecto, permíteme hacerte algunas preguntas c
 Estas respuestas me ayudarán a crear un meta-prompt extremadamente específico y efectivo para tu proyecto.
 
 PROMPT DEL USUARIO
+
 * **Funcionalidad específica**: Además de las funciones básicas (iniciar, detener, reiniciar), ¿necesitas funcionalidades específicas como:
    * Guardar tiempos parciales/vueltas en el cronómetro? No
    * Personalizar la duración de la cuenta regresiva? NO
@@ -83,6 +85,7 @@ PROMPT DEL USUARIO
    * ¿Necesitas documentación adicional? SI. ncesito un documento que se llame prompts.md que contenga el modelo y chatbot utilizado y toda el historial de prompts empleados para llegar al output final
 
 RESPUESTA DE CLAUDE
+
 Gracias por toda esta información. Ahora puedo crear un meta-prompt perfecto para tu proyecto de cronómetro y cuenta regresiva. El meta-prompt incorporará todas tus necesidades y las mejores prácticas de la industria.
 
 He creado un meta-prompt completo y detallado para tu proyecto de cronómetro y cuenta regresiva. Este meta-prompt está diseñado para obtener el mejor resultado posible en el primer intento, aprovechando la técnica de meta-prompting.
@@ -127,9 +130,12 @@ Esta estrategia de meta-prompting es efectiva porque aprovecha la capacidad del 
 ¿Quieres que haga algún ajuste o mejora al meta-prompt antes de utilizarlo?
 
 PROMPT DEL USUARIO (Meta-Prompt)
+
 Meta-Prompt para Proyecto Cronómetro y Cuenta Regresiva
 Soy un QA Engineer realizando una maestría en "AI for Devs" que no tiene ningun conocimiento de desarrollo. Necesito crear un cronómetro y cuenta regresiva inspirado en www.online-stopwatch.com, utilizando los archivos base index.html y script.js adjuntos. Te proporciono imágenes del diseño esperado para la página principal, el cronómetro y la cuenta regresiva.
+
 Objetivos Específicos:
+
 1. Crear una aplicación web de cronómetro y cuenta regresiva con dos funcionalidades principales:
    * Cronómetro (stopwatch) que cuente hacia adelante
    * Cuenta regresiva (countdown) que permita establecer un tiempo inicial y cuente hacia atrás
@@ -149,7 +155,9 @@ Objetivos Específicos:
    * Implementar tests unitarios con Jest (framework líder en la industria)
    * Probar funcionalidades críticas del cronómetro y la cuenta regresiva
    * Seguir principios de testing sólidos
+
 Entregables Esperados:
+
 1. Archivos completos y funcionales:
    * index.html actualizado
    * script.js con la lógica completa
@@ -160,14 +168,19 @@ Entregables Esperados:
    * El modelo y chatbot utilizado (Claude 3.7 Sonnet)
    * Todo el historial de prompts empleados para llegar al output final
    * Este meta-prompt
+
 Criterios de Éxito:
+
 1. La aplicación debe funcionar correctamente en navegadores modernos
 2. El código debe ser limpio, bien comentado y seguir las mejores prácticas
 3. El diseño debe ser moderno, minimalista y atractivo
 4. Los tests unitarios deben verificar la funcionalidad principal
 5. Toda la documentación debe estar completa
+
 Por favor, implementa este proyecto completo basándote en los mockups proporcionados pero modernizando su apariencia. Incluye explicaciones detalladas sobre las mejores prácticas implementadas y los principios de testing aplicados.
+
 Recursos Proporcionados:
+
 * Archivo index.html base
 * Archivo script.js base (vacío)
 * Mockups de diseño (homepage, cronómetro, cuenta regresiva)
