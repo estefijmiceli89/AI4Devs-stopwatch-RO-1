@@ -60,6 +60,7 @@ Para desarrollar el meta-prompt perfecto, permíteme hacerte algunas preguntas c
    - ¿Necesitas documentación adicional?
 
 Estas respuestas me ayudarán a crear un meta-prompt extremadamente específico y efectivo para tu proyecto.
+
 PROMPT DEL USUARIO
 * **Funcionalidad específica**: Además de las funciones básicas (iniciar, detener, reiniciar), ¿necesitas funcionalidades específicas como:
    * Guardar tiempos parciales/vueltas en el cronómetro? No
@@ -80,6 +81,7 @@ PROMPT DEL USUARIO
 * **Entrega**:
    * ¿Hay un formato específico de entrega (GitHub, etc.)? si tengo que hacer un fork del repositorio https://github.com/LIDR-academy/AI4Devs-stopwatch-RO-1?tab=readme-ov-file y crear un pr
    * ¿Necesitas documentación adicional? SI. ncesito un documento que se llame prompts.md que contenga el modelo y chatbot utilizado y toda el historial de prompts empleados para llegar al output final
+
 RESPUESTA DE CLAUDE
 Gracias por toda esta información. Ahora puedo crear un meta-prompt perfecto para tu proyecto de cronómetro y cuenta regresiva. El meta-prompt incorporará todas tus necesidades y las mejores prácticas de la industria.
 
@@ -123,6 +125,7 @@ Aquí está el razonamiento detrás de su estructura:
 Esta estrategia de meta-prompting es efectiva porque aprovecha la capacidad del modelo para entender lo que hace un buen prompt y luego ejecutarlo, obteniendo resultados de mayor calidad que los que típicamente se lograrían con prompts directos.
 
 ¿Quieres que haga algún ajuste o mejora al meta-prompt antes de utilizarlo?
+
 PROMPT DEL USUARIO (Meta-Prompt)
 Meta-Prompt para Proyecto Cronómetro y Cuenta Regresiva
 Soy un QA Engineer realizando una maestría en "AI for Devs" que no tiene ningun conocimiento de desarrollo. Necesito crear un cronómetro y cuenta regresiva inspirado en www.online-stopwatch.com, utilizando los archivos base index.html y script.js adjuntos. Te proporciono imágenes del diseño esperado para la página principal, el cronómetro y la cuenta regresiva.
